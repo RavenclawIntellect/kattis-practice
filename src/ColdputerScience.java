@@ -4,6 +4,7 @@ import java.io.*;
 public class ColdputerScience {
 
     public static void main(String[] args) throws IOException{
+        //whao so comment
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         br.readLine();
         StringTokenizer st = new StringTokenizer(br.readLine());

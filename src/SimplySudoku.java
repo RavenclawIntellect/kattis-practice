@@ -141,6 +141,7 @@ public class SimplySudoku {
     }
 
     public static void main(String[] args) throws IOException{
+        //whao so comment
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int[][] grid = new int[9][9];
         int count = 0;

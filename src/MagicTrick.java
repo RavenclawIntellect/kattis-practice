@@ -4,6 +4,7 @@ import java.io.*;
 public class MagicTrick {
 
     public static void main(String[] args) throws IOException{
+        //whao so comment
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String word = br.readLine();
         boolean[] single = new boolean[26];
